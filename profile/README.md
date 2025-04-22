@@ -1,3 +1,11 @@
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="docs/images/logo_white_complete.png" alt="Logo" width="350" height="200">
+  </a>
+  <h3 align="center">Sessions-Api</h3>
+</div>
+
 ## Hi there we are Mediaprobe👋
 
 <!--
