@@ -3,7 +3,7 @@
     "description": "Auto Label PR by Branch Name workflow template.",
     "iconName": "verified-24",
     "categories": [
-        "Go"
+        "Automation"
     ],
     "filePatterns": [
         "package.json$",
