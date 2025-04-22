@@ -1,7 +1,7 @@
 {
     "name": "Auto Label PR by Branch Name",
     "description": "Auto Label PR by Branch Name workflow template.",
-    "iconName": "octicon verified-24",
+    "iconName": "icon",
     "categories": [
         "Automation"
     ],
