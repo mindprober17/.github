@@ -7,7 +7,7 @@
 
 # 👋 Welcome to Mediaprobe
 
-**Next-Gen Media Measurement — Measuring What Matters**
+**Measuring What Matters**
 
 Mediaprobe is a pioneering media measurement platform that empowers content producers, distributors, and brands to quantify the emotional impact of their content on audiences. By leveraging physiological data, Mediaprobe provides insights into how viewers emotionally engage with media, enabling more informed advertising and content decisions.
 
@@ -21,7 +21,7 @@ At Mediaprobe, we specialize in:
 
 - **Content Insights**: Monitoring second-by-second audience engagement to understand how viewers interact with broadcasts.
 
-- **Emotional Impact Score (EIS)**: Our proprietary metric that tracks real-time audience emotions across media platforms, offering a truly comparable engagement score. ([mediaprobe.com](https://mediaprobe.com/))
+- **Emotional Impact Score (EIS)**: Our proprietary metric that tracks real-time audience emotions across media platforms, offering a truly comparable engagement score. ([mediaprobe.com](https://mediaprobe.com/why-mediaprobe/))
 
 ---
 
