@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://mediaprobe.com/">
-    <img src="../docs/images/MP-500x250-Logo.png" alt="Mediaprobe Logo" width="450" height="200">
+    <img src="../docs/images/MP-500x250-Logo.png" alt="Mediaprobe Logo" width="500" height="250">
   </a>
 </div>
 
