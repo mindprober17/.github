@@ -3,10 +3,6 @@ name: Deploy to EKS Template
 on:
   workflow_call:
     inputs:
-      branch:
-        required: true
-        type: string
-        default: main
       app_name:
         required: true
         type: string
