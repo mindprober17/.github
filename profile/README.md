@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://mediaprobe.com/">
-    <img src="../docs/images/logo_white_complete.png" alt="Mediaprobe Logo" width="450" height="200">
+    <img src="../docs/images/MP-500x250-Logo.png" alt="Mediaprobe Logo" width="450" height="200">
   </a>
 </div>
 
@@ -21,7 +21,7 @@ At Mediaprobe, we specialize in:
 
 - **Content Insights**: Monitoring second-by-second audience engagement to understand how viewers interact with broadcasts.
 
-- **Emotional Impact Score (EIS)**: Our proprietary metric that tracks real-time audience emotions across media platforms, offering a truly comparable engagement score. ([mediaprobe.com](https://mediaprobe.com/?utm_source=chatgpt.com))
+- **Emotional Impact Score (EIS)**: Our proprietary metric that tracks real-time audience emotions across media platforms, offering a truly comparable engagement score. ([mediaprobe.com](https://mediaprobe.com/))
 
 ---
 
@@ -33,15 +33,15 @@ Mediaprobe utilizes a combination of:
 
 - **Cognitive Response Tracking**: Capturing conscious feedback through mobile app interactions, such as "thumbs-up" or "thumbs-down" inputs.
 
-- **Comprehensive Analysis**: Integrating both unconscious and conscious responses to provide a holistic view of audience engagement. ([mediaprobe.com](https://mediaprobe.com/faq/?utm_source=chatgpt.com))
+- **Comprehensive Analysis**: Integrating both unconscious and conscious responses to provide a holistic view of audience engagement. ([mediaprobe.com](https://mediaprobe.com/faq))
 
 ---
 
 ## 🌍 Who We Are
 
 - **Founded**: 2016
-- **Headquarters**: Porto, Portugal
+- **Headquarters**: Braga, Portugal
 - **Global Presence**: Active panels in the US, UK, Germany, and Portugal.
-- **Team**: A dedicated group of professionals passionate about transforming media measurement. ([linkedin.com](https://www.linkedin.com/company/mediaprobe?utm_source=chatgpt.com))
+- **Team**: A dedicated group of professionals passionate about transforming media measurement. ([linkedin.com](https://www.linkedin.com/company/mediaprobe))
 
 ---
